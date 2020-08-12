@@ -1,0 +1,5 @@
+﻿  BSTree.cpp
+  Source.cpp
+C:\Users\nsret\Desktop\Strukture\Stablo\BSTTemplate\BSTTemplate\Source.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  BSTTemplate.vcxproj -> C:\Users\nsret\Desktop\Strukture\Stablo\BSTTemplate\Debug\BSTTemplate.exe
